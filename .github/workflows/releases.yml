@@ -1,0 +1,13 @@
+name: "Updated Releases"
+on: [push]
+
+jobs:
+  releases:
+    name: "Updated Releases"
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - id: build-engine
+        run: ls && python3 main.py && ls
+        shell: bash
