@@ -13,5 +13,9 @@ jobs:
         with:
           python-version: 3.8
       - name: Get Releases
-        run: pip3 install beautifulsoup4 requests && python3 main.py && ls
+        run: pip3 install beautifulsoup4 requests && python3 main.py
         shell: bash
+      - uses: actions/upload-artifact@v1
+        with:
+          name: Releases
+          path: releases
