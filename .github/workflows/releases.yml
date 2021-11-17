@@ -1,7 +1,7 @@
 name: "Update Releases"
 on:
   schedule:
-    - cron: "0 0-23 * * *"
+    - cron: "0/30 0-23 * * *"
 jobs:
   releases:
     name: "Update Release Files"
