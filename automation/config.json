@@ -59,6 +59,11 @@
       "name": "Panda 3D",
       "category": "Game Engine",
       "url": "https://github.com/panda3d/panda3d/tags"
+    },
+    {
+      "name": "Defold",
+      "category": "Game Engine",
+      "url": "https://github.com/defold/defold/tags"
     }
   ]
 }
