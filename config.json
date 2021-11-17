@@ -1,0 +1,64 @@
+{
+  "github_matches": [
+    {
+      "name": "Blender",
+      "category": "3D Tool",
+      "url": "https://github.com/blender/blender/tags"
+    },
+    {
+      "name": "Godot",
+      "category": "Game Engine",
+      "url": "https://github.com/godotengine/godot/tags"
+    },
+    {
+      "name": "ArmorPaint",
+      "category": "3D Paint Tool",
+      "url": "https://github.com/armory3d/armorpaint/tags"
+    },
+    {
+      "name": "O3DE",
+      "category": "Game Engine",
+      "url": "https://github.com/o3de/o3de/tags"
+    },
+    {
+      "name": "Phaser",
+      "category": "Framework",
+      "url": "https://github.com/photonstorm/phaser/tags"
+    },
+    {
+      "name": "Raylib",
+      "category": "Framework",
+      "url": "https://github.com/raysan5/raylib/tags"
+    },
+    {
+      "name": "ezEngine",
+      "category": "Game Engine",
+      "url": "https://github.com/ezEngine/ezEngine/tags"
+    },
+    {
+      "name": "cocos2d",
+      "category": "Framework",
+      "url": "https://github.com/cocos2d/cocos2d-x/tags"
+    },
+    {
+      "name": "UnrealEngine",
+      "category": "Game Engine",
+      "url": "https://github.com/EpicGames/UnrealEngine/tags"
+    },
+    {
+      "name": "Libgdx",
+      "category": "Framework",
+      "url": "https://github.com/libgdx/libgdx/tags"
+    },
+    {
+      "name": "Babylon",
+      "category": "Framework",
+      "url": "https://github.com/BabylonJS/Babylon.js/tags"
+    },
+    {
+      "name": "Panda 3D",
+      "category": "Game Engine",
+      "url": "https://github.com/panda3d/panda3d/tags"
+    }
+  ]
+}
