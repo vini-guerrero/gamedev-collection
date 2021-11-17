@@ -538,5 +538,60 @@
                 "download": "https://github.com//panda3d/panda3d/releases/tag/v1.10.2"
             }
         ]
+    },
+    "Defold": {
+        "category": "Game Engine",
+        "releases": [
+            {
+                "version": "1.2.190-alpha",
+                "date": "Nov 17, 2021",
+                "download": "https://github.com//defold/defold/releases/tag/1.2.190-alpha"
+            },
+            {
+                "version": "1.2.189",
+                "date": "Nov 16, 2021",
+                "download": "https://github.com//defold/defold/releases/tag/1.2.189"
+            },
+            {
+                "version": "1.2.189-beta",
+                "date": "Nov 14, 2021",
+                "download": "https://github.com//defold/defold/releases/tag/1.2.189-beta"
+            },
+            {
+                "version": "1.2.189-alpha",
+                "date": "Nov 15, 2021",
+                "download": "https://github.com//defold/defold/releases/tag/1.2.189-alpha"
+            },
+            {
+                "version": "1.2.188",
+                "date": "Oct 18, 2021",
+                "download": "https://github.com//defold/defold/releases/tag/1.2.188"
+            },
+            {
+                "version": "1.2.188-beta",
+                "date": "Oct 19, 2021",
+                "download": "https://github.com//defold/defold/releases/tag/1.2.188-beta"
+            },
+            {
+                "version": "1.2.188-alpha",
+                "date": "Oct 1, 2021",
+                "download": "https://github.com//defold/defold/releases/tag/1.2.188-alpha"
+            },
+            {
+                "version": "1.2.187",
+                "date": "Sep 20, 2021",
+                "download": "https://github.com//defold/defold/releases/tag/1.2.187"
+            },
+            {
+                "version": "1.2.187-beta",
+                "date": "Sep 6, 2021",
+                "download": "https://github.com//defold/defold/releases/tag/1.2.187-beta"
+            },
+            {
+                "version": "1.2.187-alpha",
+                "date": "Sep 20, 2021",
+                "download": "https://github.com//defold/defold/releases/tag/1.2.187-alpha"
+            }
+        ]
     }
 }
