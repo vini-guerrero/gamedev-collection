@@ -1,0 +1,542 @@
+{
+    "Blender": {
+        "category": "3D Tool",
+        "releases": [
+            {
+                "version": "v2.93.6",
+                "date": "Nov 17, 2021",
+                "download": "https://github.com//blender/blender/releases/tag/v2.93.6"
+            },
+            {
+                "version": "v2.93.5",
+                "date": "Oct 6, 2021",
+                "download": "https://github.com//blender/blender/releases/tag/v2.93.5"
+            },
+            {
+                "version": "v2.83.18",
+                "date": "Sep 29, 2021",
+                "download": "https://github.com//blender/blender/releases/tag/v2.83.18"
+            },
+            {
+                "version": "v2.93.4",
+                "date": "Sep 1, 2021",
+                "download": "https://github.com//blender/blender/releases/tag/v2.93.4"
+            },
+            {
+                "version": "v2.93.3",
+                "date": "Aug 18, 2021",
+                "download": "https://github.com//blender/blender/releases/tag/v2.93.3"
+            },
+            {
+                "version": "v2.83.17",
+                "date": "Aug 11, 2021",
+                "download": "https://github.com//blender/blender/releases/tag/v2.83.17"
+            },
+            {
+                "version": "v2.93.2",
+                "date": "Aug 4, 2021",
+                "download": "https://github.com//blender/blender/releases/tag/v2.93.2"
+            },
+            {
+                "version": "v2.93.1",
+                "date": "Jun 23, 2021",
+                "download": "https://github.com//blender/blender/releases/tag/v2.93.1"
+            },
+            {
+                "version": "v2.83.16",
+                "date": "Jun 16, 2021",
+                "download": "https://github.com//blender/blender/releases/tag/v2.83.16"
+            },
+            {
+                "version": "v2.93.0",
+                "date": "Jun 2, 2021",
+                "download": "https://github.com//blender/blender/releases/tag/v2.93.0"
+            }
+        ]
+    },
+    "Godot": {
+        "category": "Game Engine",
+        "releases": [
+            {
+                "version": "3.4-stable",
+                "date": "Nov 5, 2021",
+                "download": "https://github.com//godotengine/godot/releases/tag/3.4-stable"
+            },
+            {
+                "version": "3.3.4-stable",
+                "date": "Oct 1, 2021",
+                "download": "https://github.com//godotengine/godot/releases/tag/3.3.4-stable"
+            },
+            {
+                "version": "3.3.3-stable",
+                "date": "Aug 19, 2021",
+                "download": "https://github.com//godotengine/godot/releases/tag/3.3.3-stable"
+            },
+            {
+                "version": "3.3.2-stable",
+                "date": "May 24, 2021",
+                "download": "https://github.com//godotengine/godot/releases/tag/3.3.2-stable"
+            },
+            {
+                "version": "3.3.1-stable",
+                "date": "May 18, 2021",
+                "download": "https://github.com//godotengine/godot/releases/tag/3.3.1-stable"
+            },
+            {
+                "version": "3.3-stable",
+                "date": "Apr 21, 2021",
+                "download": "https://github.com//godotengine/godot/releases/tag/3.3-stable"
+            },
+            {
+                "version": "3.2.3-stable",
+                "date": "Sep 16, 2020",
+                "download": "https://github.com//godotengine/godot/releases/tag/3.2.3-stable"
+            },
+            {
+                "version": "3.2.2-stable",
+                "date": "Jun 26, 2020",
+                "download": "https://github.com//godotengine/godot/releases/tag/3.2.2-stable"
+            },
+            {
+                "version": "3.2.1-stable",
+                "date": "Mar 10, 2020",
+                "download": "https://github.com//godotengine/godot/releases/tag/3.2.1-stable"
+            },
+            {
+                "version": "3.2-stable",
+                "date": "Jan 29, 2020",
+                "download": "https://github.com//godotengine/godot/releases/tag/3.2-stable"
+            }
+        ]
+    },
+    "ArmorPaint": {
+        "category": "3D Paint Tool",
+        "releases": [
+            {
+                "version": "21.10",
+                "date": "Oct 3, 2021",
+                "download": "https://github.com//armory3d/armorpaint/releases/tag/21.10"
+            },
+            {
+                "version": "20.01",
+                "date": "Jan 2, 2020",
+                "download": "https://github.com//armory3d/armorpaint/releases/tag/20.01"
+            },
+            {
+                "version": "19.08",
+                "date": "Aug 7, 2019",
+                "download": "https://github.com//armory3d/armorpaint/releases/tag/19.08"
+            },
+            {
+                "version": "18.11",
+                "date": "Nov 7, 2018",
+                "download": "https://github.com//armory3d/armorpaint/releases/tag/18.11"
+            },
+            {
+                "version": "18.07",
+                "date": "Jul 11, 2018",
+                "download": "https://github.com//armory3d/armorpaint/releases/tag/18.07"
+            },
+            {
+                "version": "18.05",
+                "date": "May 3, 2018",
+                "download": "https://github.com//armory3d/armorpaint/releases/tag/18.05"
+            },
+            {
+                "version": "18.02",
+                "date": "Feb 26, 2018",
+                "download": "https://github.com//armory3d/armorpaint/releases/tag/18.02"
+            }
+        ]
+    },
+    "O3DE": {
+        "category": "Game Engine",
+        "releases": [
+            {
+                "version": "2107.1",
+                "date": "Jul 6, 2021",
+                "download": "https://github.com//o3de/o3de/releases/tag/2107.1"
+            }
+        ]
+    },
+    "Phaser": {
+        "category": "Framework",
+        "releases": [
+            {
+                "version": "v3.60.0-beta.3",
+                "date": "Oct 27, 2021",
+                "download": "https://github.com//photonstorm/phaser/releases/tag/v3.60.0-beta.3"
+            },
+            {
+                "version": "v3.60.0-beta.2",
+                "date": "Oct 18, 2021",
+                "download": "https://github.com//photonstorm/phaser/releases/tag/v3.60.0-beta.2"
+            },
+            {
+                "version": "v3.60.0-beta.1",
+                "date": "Oct 6, 2021",
+                "download": "https://github.com//photonstorm/phaser/releases/tag/v3.60.0-beta.1"
+            },
+            {
+                "version": "v3.55.2",
+                "date": "May 27, 2021",
+                "download": "https://github.com//photonstorm/phaser/releases/tag/v3.55.2"
+            },
+            {
+                "version": "v3.55.1",
+                "date": "May 26, 2021",
+                "download": "https://github.com//photonstorm/phaser/releases/tag/v3.55.1"
+            },
+            {
+                "version": "v3.55.0",
+                "date": "May 24, 2021",
+                "download": "https://github.com//photonstorm/phaser/releases/tag/v3.55.0"
+            },
+            {
+                "version": "v3.54.0",
+                "date": "Mar 26, 2021",
+                "download": "https://github.com//photonstorm/phaser/releases/tag/v3.54.0"
+            },
+            {
+                "version": "v3.53.1",
+                "date": "Mar 8, 2021",
+                "download": "https://github.com//photonstorm/phaser/releases/tag/v3.53.1"
+            },
+            {
+                "version": "v3.53.0",
+                "date": "Mar 8, 2021",
+                "download": "https://github.com//photonstorm/phaser/releases/tag/v3.53.0"
+            },
+            {
+                "version": "v3.52.0",
+                "date": "Jan 14, 2021",
+                "download": "https://github.com//photonstorm/phaser/releases/tag/v3.52.0"
+            }
+        ]
+    },
+    "Raylib": {
+        "category": "Framework",
+        "releases": [
+            {
+                "version": "4.0.0",
+                "date": "Nov 4, 2021",
+                "download": "https://github.com//raysan5/raylib/releases/tag/4.0.0"
+            },
+            {
+                "version": "3.7.0",
+                "date": "Apr 26, 2021",
+                "download": "https://github.com//raysan5/raylib/releases/tag/3.7.0"
+            },
+            {
+                "version": "3.5.0",
+                "date": "Dec 25, 2020",
+                "download": "https://github.com//raysan5/raylib/releases/tag/3.5.0"
+            },
+            {
+                "version": "3.0.0",
+                "date": "Apr 1, 2020",
+                "download": "https://github.com//raysan5/raylib/releases/tag/3.0.0"
+            },
+            {
+                "version": "2.6.0",
+                "date": "Feb 3, 2020",
+                "download": "https://github.com//raysan5/raylib/releases/tag/2.6.0"
+            },
+            {
+                "version": "2.5.0",
+                "date": "May 31, 2019",
+                "download": "https://github.com//raysan5/raylib/releases/tag/2.5.0"
+            },
+            {
+                "version": "2.0.0",
+                "date": "Jul 21, 2018",
+                "download": "https://github.com//raysan5/raylib/releases/tag/2.0.0"
+            },
+            {
+                "version": "1.9.7-dev",
+                "date": "Apr 10, 2018",
+                "download": "https://github.com//raysan5/raylib/releases/tag/1.9.7-dev"
+            },
+            {
+                "version": "1.9.4-dev",
+                "date": "Feb 4, 2018",
+                "download": "https://github.com//raysan5/raylib/releases/tag/1.9.4-dev"
+            },
+            {
+                "version": "1.8.0",
+                "date": "Oct 22, 2017",
+                "download": "https://github.com//raysan5/raylib/releases/tag/1.8.0"
+            }
+        ]
+    },
+    "ezEngine": {
+        "category": "Game Engine",
+        "releases": [
+            {
+                "version": "release-21.10",
+                "date": "Oct 26, 2021",
+                "download": "https://github.com//ezEngine/ezEngine/releases/tag/release-21.10"
+            },
+            {
+                "version": "release-21.6.1",
+                "date": "Jun 8, 2021",
+                "download": "https://github.com//ezEngine/ezEngine/releases/tag/release-21.6.1"
+            },
+            {
+                "version": "release-21.6",
+                "date": "Jun 8, 2021",
+                "download": "https://github.com//ezEngine/ezEngine/releases/tag/release-21.6"
+            },
+            {
+                "version": "release-20.8",
+                "date": "Aug 13, 2020",
+                "download": "https://github.com//ezEngine/ezEngine/releases/tag/release-20.8"
+            },
+            {
+                "version": "release-20.5",
+                "date": "May 13, 2020",
+                "download": "https://github.com//ezEngine/ezEngine/releases/tag/release-20.5"
+            },
+            {
+                "version": "release-20.2",
+                "date": "Feb 11, 2020",
+                "download": "https://github.com//ezEngine/ezEngine/releases/tag/release-20.2"
+            },
+            {
+                "version": "release-9",
+                "date": "Jul 14, 2019",
+                "download": "https://github.com//ezEngine/ezEngine/releases/tag/release-9"
+            },
+            {
+                "version": "ms9",
+                "date": "Feb 19, 2019",
+                "download": "https://github.com//ezEngine/ezEngine/releases/tag/ms9"
+            },
+            {
+                "version": "v4",
+                "date": "Mar 27, 2014",
+                "download": "https://github.com//ezEngine/ezEngine/releases/tag/v4"
+            }
+        ]
+    },
+    "cocos2d": {
+        "category": "Framework",
+        "releases": [
+            {
+                "version": "cocos2d-x-4.0",
+                "date": "Nov 29, 2019",
+                "download": "https://github.com//cocos2d/cocos2d-x/releases/tag/cocos2d-x-4.0"
+            },
+            {
+                "version": "cocos2d-x-3.17.2",
+                "date": "May 16, 2019",
+                "download": "https://github.com//cocos2d/cocos2d-x/releases/tag/cocos2d-x-3.17.2"
+            },
+            {
+                "version": "cocos2d-x-3.17.1",
+                "date": "Dec 25, 2018",
+                "download": "https://github.com//cocos2d/cocos2d-x/releases/tag/cocos2d-x-3.17.1"
+            },
+            {
+                "version": "cocos2d-x-3.17",
+                "date": "May 21, 2018",
+                "download": "https://github.com//cocos2d/cocos2d-x/releases/tag/cocos2d-x-3.17"
+            },
+            {
+                "version": "cocos2d-x-3.16",
+                "date": "Oct 9, 2017",
+                "download": "https://github.com//cocos2d/cocos2d-x/releases/tag/cocos2d-x-3.16"
+            },
+            {
+                "version": "cocos2d-x-3.15.1",
+                "date": "May 27, 2017",
+                "download": "https://github.com//cocos2d/cocos2d-x/releases/tag/cocos2d-x-3.15.1"
+            },
+            {
+                "version": "cocos2d-x-3.15",
+                "date": "Apr 21, 2017",
+                "download": "https://github.com//cocos2d/cocos2d-x/releases/tag/cocos2d-x-3.15"
+            },
+            {
+                "version": "cocos2d-x-3.15rc0",
+                "date": "Apr 13, 2017",
+                "download": "https://github.com//cocos2d/cocos2d-x/releases/tag/cocos2d-x-3.15rc0"
+            },
+            {
+                "version": "cocos2d-x-3.14.1",
+                "date": "Jan 19, 2017",
+                "download": "https://github.com//cocos2d/cocos2d-x/releases/tag/cocos2d-x-3.14.1"
+            },
+            {
+                "version": "cocos2d-x-3.14.1rc0",
+                "date": "Jan 12, 2017",
+                "download": "https://github.com//cocos2d/cocos2d-x/releases/tag/cocos2d-x-3.14.1rc0"
+            }
+        ]
+    },
+    "Libgdx": {
+        "category": "Framework",
+        "releases": [
+            {
+                "version": "gdx-parent-1.10.0",
+                "date": "Apr 18, 2021",
+                "download": "https://github.com//libgdx/libgdx/releases/tag/gdx-parent-1.10.0"
+            },
+            {
+                "version": "gdx-parent-1.9.14",
+                "date": "Feb 1, 2021",
+                "download": "https://github.com//libgdx/libgdx/releases/tag/gdx-parent-1.9.14"
+            },
+            {
+                "version": "gdx-parent-1.9.13",
+                "date": "Jan 1, 2021",
+                "download": "https://github.com//libgdx/libgdx/releases/tag/gdx-parent-1.9.13"
+            },
+            {
+                "version": "gdx-parent-1.9.12",
+                "date": "Oct 31, 2020",
+                "download": "https://github.com//libgdx/libgdx/releases/tag/gdx-parent-1.9.12"
+            },
+            {
+                "version": "gdx-parent-1.9.11",
+                "date": "Jul 21, 2020",
+                "download": "https://github.com//libgdx/libgdx/releases/tag/gdx-parent-1.9.11"
+            },
+            {
+                "version": "gdx-parent-1.9.10",
+                "date": "Jul 18, 2019",
+                "download": "https://github.com//libgdx/libgdx/releases/tag/gdx-parent-1.9.10"
+            },
+            {
+                "version": "gdx-parent-1.9.9",
+                "date": "Nov 15, 2018",
+                "download": "https://github.com//libgdx/libgdx/releases/tag/gdx-parent-1.9.9"
+            },
+            {
+                "version": "gdx-parent-1.9.8",
+                "date": "Dec 9, 2017",
+                "download": "https://github.com//libgdx/libgdx/releases/tag/gdx-parent-1.9.8"
+            },
+            {
+                "version": "gdx-parent-1.9.7",
+                "date": "Oct 22, 2017",
+                "download": "https://github.com//libgdx/libgdx/releases/tag/gdx-parent-1.9.7"
+            },
+            {
+                "version": "1.9.6",
+                "date": "Mar 5, 2017",
+                "download": "https://github.com//libgdx/libgdx/releases/tag/1.9.6"
+            }
+        ]
+    },
+    "Babylon": {
+        "category": "Framework",
+        "releases": [
+            {
+                "version": "5.0.0-alpha.61",
+                "date": "Nov 15, 2021",
+                "download": "https://github.com//BabylonJS/Babylon.js/releases/tag/5.0.0-alpha.61"
+            },
+            {
+                "version": "5.0.0-alpha.60",
+                "date": "Nov 1, 2021",
+                "download": "https://github.com//BabylonJS/Babylon.js/releases/tag/5.0.0-alpha.60"
+            },
+            {
+                "version": "5.0.0-alpha.59",
+                "date": "Oct 29, 2021",
+                "download": "https://github.com//BabylonJS/Babylon.js/releases/tag/5.0.0-alpha.59"
+            },
+            {
+                "version": "5.0.0-alpha.58",
+                "date": "Oct 26, 2021",
+                "download": "https://github.com//BabylonJS/Babylon.js/releases/tag/5.0.0-alpha.58"
+            },
+            {
+                "version": "5.0.0-alpha.57",
+                "date": "Oct 20, 2021",
+                "download": "https://github.com//BabylonJS/Babylon.js/releases/tag/5.0.0-alpha.57"
+            },
+            {
+                "version": "5.0.0-alpha.56",
+                "date": "Oct 18, 2021",
+                "download": "https://github.com//BabylonJS/Babylon.js/releases/tag/5.0.0-alpha.56"
+            },
+            {
+                "version": "5.0.0-alpha.55",
+                "date": "Oct 14, 2021",
+                "download": "https://github.com//BabylonJS/Babylon.js/releases/tag/5.0.0-alpha.55"
+            },
+            {
+                "version": "5.0.0-alpha.54",
+                "date": "Oct 13, 2021",
+                "download": "https://github.com//BabylonJS/Babylon.js/releases/tag/5.0.0-alpha.54"
+            },
+            {
+                "version": "5.0.0-alpha.52",
+                "date": "Oct 11, 2021",
+                "download": "https://github.com//BabylonJS/Babylon.js/releases/tag/5.0.0-alpha.52"
+            },
+            {
+                "version": "5.0.0-alpha.51",
+                "date": "Oct 11, 2021",
+                "download": "https://github.com//BabylonJS/Babylon.js/releases/tag/5.0.0-alpha.51"
+            }
+        ]
+    },
+    "Panda 3D": {
+        "category": "Game Engine",
+        "releases": [
+            {
+                "version": "v1.10.10",
+                "date": "Aug 31, 2021",
+                "download": "https://github.com//panda3d/panda3d/releases/tag/v1.10.10"
+            },
+            {
+                "version": "v1.10.9",
+                "date": "Mar 26, 2021",
+                "download": "https://github.com//panda3d/panda3d/releases/tag/v1.10.9"
+            },
+            {
+                "version": "v1.10.8",
+                "date": "Dec 27, 2020",
+                "download": "https://github.com//panda3d/panda3d/releases/tag/v1.10.8"
+            },
+            {
+                "version": "v1.10.7",
+                "date": "Sep 14, 2020",
+                "download": "https://github.com//panda3d/panda3d/releases/tag/v1.10.7"
+            },
+            {
+                "version": "v1.10.6",
+                "date": "Mar 19, 2020",
+                "download": "https://github.com//panda3d/panda3d/releases/tag/v1.10.6"
+            },
+            {
+                "version": "v1.10.5",
+                "date": "Jan 8, 2020",
+                "download": "https://github.com//panda3d/panda3d/releases/tag/v1.10.5"
+            },
+            {
+                "version": "v1.10.4.1",
+                "date": "Aug 19, 2019",
+                "download": "https://github.com//panda3d/panda3d/releases/tag/v1.10.4.1"
+            },
+            {
+                "version": "v1.10.4",
+                "date": "Aug 18, 2019",
+                "download": "https://github.com//panda3d/panda3d/releases/tag/v1.10.4"
+            },
+            {
+                "version": "v1.10.3",
+                "date": "May 13, 2019",
+                "download": "https://github.com//panda3d/panda3d/releases/tag/v1.10.3"
+            },
+            {
+                "version": "v1.10.2",
+                "date": "Mar 11, 2019",
+                "download": "https://github.com//panda3d/panda3d/releases/tag/v1.10.2"
+            }
+        ]
+    }
+}
