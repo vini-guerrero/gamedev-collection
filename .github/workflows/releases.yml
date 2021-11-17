@@ -1,9 +1,9 @@
-name: "Updated Releases"
-on: [push]
+name: "Update Releases"
+on: [workflow_dispatch]
 
 jobs:
   releases:
-    name: "Updated Releases"
+    name: "Update Release Files"
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -12,13 +12,14 @@ jobs:
         uses: actions/setup-python@v2
         with:
           python-version: 3.8
-      - name: Get Releases
-        run: pip3 install beautifulsoup4 requests && python3 main.py
+      - name: Get Github Releases
+        run: pip3 install beautifulsoup4 requests && python3 automation/main.py
         shell: bash
       # - uses: actions/upload-artifact@v1
       #   with:
       #     name: Releases
       #     path: releases
-      - uses: stefanzweifel/git-auto-commit-action@v4
+      - name: Upload and Commit Release Files
+        uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Updated Release Files
