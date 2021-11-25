@@ -593,5 +593,255 @@
                 "download": "https://github.com//defold/defold/releases/tag/1.2.187-alpha"
             }
         ]
+    },
+    "Material Maker": {
+        "category": "3D Paint Tool",
+        "releases": [
+            {
+                "version": "0.97",
+                "date": "Oct 17, 2021",
+                "download": "https://github.com//RodZill4/material-maker/releases/tag/0.97"
+            },
+            {
+                "version": "0.96",
+                "date": "Jul 31, 2021",
+                "download": "https://github.com//RodZill4/material-maker/releases/tag/0.96"
+            },
+            {
+                "version": "0.95",
+                "date": "Apr 21, 2021",
+                "download": "https://github.com//RodZill4/material-maker/releases/tag/0.95"
+            },
+            {
+                "version": "0.94",
+                "date": "Jan 31, 2021",
+                "download": "https://github.com//RodZill4/material-maker/releases/tag/0.94"
+            },
+            {
+                "version": "0.93",
+                "date": "Oct 11, 2020",
+                "download": "https://github.com//RodZill4/material-maker/releases/tag/0.93"
+            },
+            {
+                "version": "0.92",
+                "date": "Jun 27, 2020",
+                "download": "https://github.com//RodZill4/material-maker/releases/tag/0.92"
+            },
+            {
+                "version": "0.9",
+                "date": "Mar 15, 2020",
+                "download": "https://github.com//RodZill4/material-maker/releases/tag/0.9"
+            },
+            {
+                "version": "0.8",
+                "date": "Jan 21, 2020",
+                "download": "https://github.com//RodZill4/material-maker/releases/tag/0.8"
+            },
+            {
+                "version": "v0.7",
+                "date": "Nov 24, 2019",
+                "download": "https://github.com//RodZill4/material-maker/releases/tag/v0.7"
+            },
+            {
+                "version": "0.5p1",
+                "date": "Sep 12, 2018",
+                "download": "https://github.com//RodZill4/material-maker/releases/tag/0.5p1"
+            }
+        ]
+    },
+    "Pixelorama": {
+        "category": "Sprite Editor",
+        "releases": [
+            {
+                "version": "v0.9",
+                "date": "Sep 18, 2021",
+                "download": "https://github.com//Orama-Interactive/Pixelorama/releases/tag/v0.9"
+            },
+            {
+                "version": "v0.8.3",
+                "date": "Aug 21, 2021",
+                "download": "https://github.com//Orama-Interactive/Pixelorama/releases/tag/v0.8.3"
+            },
+            {
+                "version": "v0.8.2",
+                "date": "Dec 12, 2020",
+                "download": "https://github.com//Orama-Interactive/Pixelorama/releases/tag/v0.8.2"
+            },
+            {
+                "version": "v0.8.1",
+                "date": "Oct 14, 2020",
+                "download": "https://github.com//Orama-Interactive/Pixelorama/releases/tag/v0.8.1"
+            },
+            {
+                "version": "v0.8",
+                "date": "Sep 23, 2020",
+                "download": "https://github.com//Orama-Interactive/Pixelorama/releases/tag/v0.8"
+            },
+            {
+                "version": "v0.7",
+                "date": "May 9, 2020",
+                "download": "https://github.com//Orama-Interactive/Pixelorama/releases/tag/v0.7"
+            },
+            {
+                "version": "v0.6.2",
+                "date": "Feb 17, 2020",
+                "download": "https://github.com//Orama-Interactive/Pixelorama/releases/tag/v0.6.2"
+            },
+            {
+                "version": "v0.6.1",
+                "date": "Jan 13, 2020",
+                "download": "https://github.com//Orama-Interactive/Pixelorama/releases/tag/v0.6.1"
+            },
+            {
+                "version": "v0.6",
+                "date": "Jan 6, 2020",
+                "download": "https://github.com//Orama-Interactive/Pixelorama/releases/tag/v0.6"
+            },
+            {
+                "version": "v0.5",
+                "date": "Dec 12, 2019",
+                "download": "https://github.com//Orama-Interactive/Pixelorama/releases/tag/v0.5"
+            }
+        ]
+    },
+    "Bevy": {
+        "category": "Framework",
+        "releases": [
+            {
+                "version": "v0.5.0",
+                "date": "Apr 6, 2021",
+                "download": "https://github.com//bevyengine/bevy/releases/tag/v0.5.0"
+            },
+            {
+                "version": "v0.4.0",
+                "date": "Dec 19, 2020",
+                "download": "https://github.com//bevyengine/bevy/releases/tag/v0.4.0"
+            },
+            {
+                "version": "v0.3.0",
+                "date": "Nov 3, 2020",
+                "download": "https://github.com//bevyengine/bevy/releases/tag/v0.3.0"
+            },
+            {
+                "version": "v0.2.1",
+                "date": "Sep 20, 2020",
+                "download": "https://github.com//bevyengine/bevy/releases/tag/v0.2.1"
+            },
+            {
+                "version": "v0.2.0",
+                "date": "Sep 19, 2020",
+                "download": "https://github.com//bevyengine/bevy/releases/tag/v0.2.0"
+            }
+        ]
+    },
+    "Krita": {
+        "category": "Digital Paint Application",
+        "releases": [
+            {
+                "version": "v5.0.0-beta2",
+                "date": "Oct 6, 2021",
+                "download": "https://github.com//KDE/krita/releases/tag/v5.0.0-beta2"
+            },
+            {
+                "version": "v4.4.8",
+                "date": "Aug 24, 2021",
+                "download": "https://github.com//KDE/krita/releases/tag/v4.4.8"
+            },
+            {
+                "version": "v5.0.0-beta1",
+                "date": "Aug 18, 2021",
+                "download": "https://github.com//KDE/krita/releases/tag/v5.0.0-beta1"
+            },
+            {
+                "version": "v4.4.7",
+                "date": "Aug 3, 2021",
+                "download": "https://github.com//KDE/krita/releases/tag/v4.4.7"
+            },
+            {
+                "version": "v4.4.6",
+                "date": "Jun 9, 2021",
+                "download": "https://github.com//KDE/krita/releases/tag/v4.4.6"
+            },
+            {
+                "version": "v4.4.5",
+                "date": "Jun 8, 2021",
+                "download": "https://github.com//KDE/krita/releases/tag/v4.4.5"
+            },
+            {
+                "version": "v4.4.4",
+                "date": "Apr 22, 2021",
+                "download": "https://github.com//KDE/krita/releases/tag/v4.4.4"
+            },
+            {
+                "version": "v4.4.3",
+                "date": "Mar 22, 2021",
+                "download": "https://github.com//KDE/krita/releases/tag/v4.4.3"
+            },
+            {
+                "version": "v4.4.3-beta2",
+                "date": "Mar 10, 2021",
+                "download": "https://github.com//KDE/krita/releases/tag/v4.4.3-beta2"
+            },
+            {
+                "version": "v4.4.3-beta1",
+                "date": "Feb 23, 2021",
+                "download": "https://github.com//KDE/krita/releases/tag/v4.4.3-beta1"
+            }
+        ]
+    },
+    "Gimp": {
+        "category": "Digital Paint Application",
+        "releases": [
+            {
+                "version": "GIMP_2_99_8",
+                "date": "Oct 19, 2021",
+                "download": "https://github.com//GNOME/gimp/releases/tag/GIMP_2_99_8"
+            },
+            {
+                "version": "GIMP_2_10_28",
+                "date": "Sep 14, 2021",
+                "download": "https://github.com//GNOME/gimp/releases/tag/GIMP_2_10_28"
+            },
+            {
+                "version": "GIMP_2_10_26",
+                "date": "Sep 5, 2021",
+                "download": "https://github.com//GNOME/gimp/releases/tag/GIMP_2_10_26"
+            },
+            {
+                "version": "GIMP_2_99_6",
+                "date": "Apr 26, 2021",
+                "download": "https://github.com//GNOME/gimp/releases/tag/GIMP_2_99_6"
+            },
+            {
+                "version": "GIMP_2_10_24",
+                "date": "Mar 28, 2021",
+                "download": "https://github.com//GNOME/gimp/releases/tag/GIMP_2_10_24"
+            },
+            {
+                "version": "GIMP_2_99_4",
+                "date": "Dec 22, 2020",
+                "download": "https://github.com//GNOME/gimp/releases/tag/GIMP_2_99_4"
+            },
+            {
+                "version": "GIMP_2_99_2",
+                "date": "Oct 25, 2020",
+                "download": "https://github.com//GNOME/gimp/releases/tag/GIMP_2_99_2"
+            },
+            {
+                "version": "GIMP_2_10_22",
+                "date": "Oct 4, 2020",
+                "download": "https://github.com//GNOME/gimp/releases/tag/GIMP_2_10_22"
+            },
+            {
+                "version": "GIMP_2_10_20",
+                "date": "Jun 7, 2020",
+                "download": "https://github.com//GNOME/gimp/releases/tag/GIMP_2_10_20"
+            },
+            {
+                "version": "GIMP_2_10_18",
+                "date": "Feb 23, 2020",
+                "download": "https://github.com//GNOME/gimp/releases/tag/GIMP_2_10_18"
+            }
+        ]
     }
 }
