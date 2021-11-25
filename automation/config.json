@@ -74,6 +74,21 @@
       "name": "Pixelorama",
       "category": "Sprite Editor",
       "url": "https://github.com/Orama-Interactive/Pixelorama/tags"
+    },
+    {
+      "name": "Bevy",
+      "category": "Framework",
+      "url": "https://github.com/bevyengine/bevy/tags"
+    },
+    {
+      "name": "Krita",
+      "category": "Digital Paint Application",
+      "url": "https://github.com/KDE/krita/tags"
+    },
+     {
+      "name": "Gimp",
+      "category": "Digital Paint Application",
+      "url": "https://github.com/GNOME/gimp/tags"
     }
   ]
 }
