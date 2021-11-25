@@ -64,6 +64,11 @@
       "name": "Defold",
       "category": "Game Engine",
       "url": "https://github.com/defold/defold/tags"
-    }
+    },
+    {
+      "name": "Material Maker",
+      "category": "3D Paint Tool",
+      "url": "https://github.com/RodZill4/material-maker/tags"
+    },
   ]
 }
