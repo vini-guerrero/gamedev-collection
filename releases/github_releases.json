@@ -219,6 +219,61 @@
             }
         ]
     },
+    "Raylib": {
+        "category": "Framework",
+        "releases": [
+            {
+                "version": "4.0.0",
+                "date": "Nov 4, 2021",
+                "download": "https://github.com//raysan5/raylib/releases/tag/4.0.0"
+            },
+            {
+                "version": "3.7.0",
+                "date": "Apr 26, 2021",
+                "download": "https://github.com//raysan5/raylib/releases/tag/3.7.0"
+            },
+            {
+                "version": "3.5.0",
+                "date": "Dec 25, 2020",
+                "download": "https://github.com//raysan5/raylib/releases/tag/3.5.0"
+            },
+            {
+                "version": "3.0.0",
+                "date": "Apr 1, 2020",
+                "download": "https://github.com//raysan5/raylib/releases/tag/3.0.0"
+            },
+            {
+                "version": "2.6.0",
+                "date": "Feb 3, 2020",
+                "download": "https://github.com//raysan5/raylib/releases/tag/2.6.0"
+            },
+            {
+                "version": "2.5.0",
+                "date": "May 31, 2019",
+                "download": "https://github.com//raysan5/raylib/releases/tag/2.5.0"
+            },
+            {
+                "version": "2.0.0",
+                "date": "Jul 21, 2018",
+                "download": "https://github.com//raysan5/raylib/releases/tag/2.0.0"
+            },
+            {
+                "version": "1.9.7-dev",
+                "date": "Apr 10, 2018",
+                "download": "https://github.com//raysan5/raylib/releases/tag/1.9.7-dev"
+            },
+            {
+                "version": "1.9.4-dev",
+                "date": "Feb 4, 2018",
+                "download": "https://github.com//raysan5/raylib/releases/tag/1.9.4-dev"
+            },
+            {
+                "version": "1.8.0",
+                "date": "Oct 22, 2017",
+                "download": "https://github.com//raysan5/raylib/releases/tag/1.8.0"
+            }
+        ]
+    },
     "ezEngine": {
         "category": "Game Engine",
         "releases": [
