@@ -438,6 +438,11 @@
         "category": "Framework",
         "releases": [
             {
+                "version": "5.0.0-alpha.64",
+                "date": "Dec 15, 2021",
+                "download": "https://github.com//BabylonJS/Babylon.js/releases/tag/5.0.0-alpha.64"
+            },
+            {
                 "version": "5.0.0-alpha.63",
                 "date": "Dec 2, 2021",
                 "download": "https://github.com//BabylonJS/Babylon.js/releases/tag/5.0.0-alpha.63"
@@ -481,11 +486,6 @@
                 "version": "5.0.0-alpha.55",
                 "date": "Oct 14, 2021",
                 "download": "https://github.com//BabylonJS/Babylon.js/releases/tag/5.0.0-alpha.55"
-            },
-            {
-                "version": "5.0.0-alpha.54",
-                "date": "Oct 13, 2021",
-                "download": "https://github.com//BabylonJS/Babylon.js/releases/tag/5.0.0-alpha.54"
             }
         ]
     },
