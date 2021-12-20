@@ -658,6 +658,11 @@
         "category": "Sprite Editor",
         "releases": [
             {
+                "version": "v0.9.1",
+                "date": "Dec 20, 2021",
+                "download": "https://github.com//Orama-Interactive/Pixelorama/releases/tag/v0.9.1"
+            },
+            {
                 "version": "v0.9",
                 "date": "Sep 18, 2021",
                 "download": "https://github.com//Orama-Interactive/Pixelorama/releases/tag/v0.9"
@@ -701,11 +706,6 @@
                 "version": "v0.6",
                 "date": "Jan 6, 2020",
                 "download": "https://github.com//Orama-Interactive/Pixelorama/releases/tag/v0.6"
-            },
-            {
-                "version": "v0.5",
-                "date": "Dec 12, 2019",
-                "download": "https://github.com//Orama-Interactive/Pixelorama/releases/tag/v0.5"
             }
         ]
     },
