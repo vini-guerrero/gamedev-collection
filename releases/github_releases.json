@@ -493,6 +493,11 @@
         "category": "Game Engine",
         "releases": [
             {
+                "version": "v1.10.11",
+                "date": "Jan 7, 2022",
+                "download": "https://github.com//panda3d/panda3d/releases/tag/v1.10.11"
+            },
+            {
                 "version": "v1.10.10",
                 "date": "Aug 31, 2021",
                 "download": "https://github.com//panda3d/panda3d/releases/tag/v1.10.10"
@@ -536,11 +541,6 @@
                 "version": "v1.10.3",
                 "date": "May 13, 2019",
                 "download": "https://github.com//panda3d/panda3d/releases/tag/v1.10.3"
-            },
-            {
-                "version": "v1.10.2",
-                "date": "Mar 11, 2019",
-                "download": "https://github.com//panda3d/panda3d/releases/tag/v1.10.2"
             }
         ]
     },
