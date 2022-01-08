@@ -713,6 +713,11 @@
         "category": "Framework",
         "releases": [
             {
+                "version": "v0.6.0",
+                "date": "Jan 8, 2022",
+                "download": "https://github.com//bevyengine/bevy/releases/tag/v0.6.0"
+            },
+            {
                 "version": "v0.5.0",
                 "date": "Apr 6, 2021",
                 "download": "https://github.com//bevyengine/bevy/releases/tag/v0.5.0"
