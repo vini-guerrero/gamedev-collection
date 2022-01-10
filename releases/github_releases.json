@@ -548,6 +548,11 @@
         "category": "Game Engine",
         "releases": [
             {
+                "version": "1.2.192-alpha",
+                "date": "Jan 10, 2022",
+                "download": "https://github.com//defold/defold/releases/tag/1.2.192-alpha"
+            },
+            {
                 "version": "1.2.191",
                 "date": "Jan 10, 2022",
                 "download": "https://github.com//defold/defold/releases/tag/1.2.191"
@@ -591,11 +596,6 @@
                 "version": "1.2.189-alpha",
                 "date": "Nov 15, 2021",
                 "download": "https://github.com//defold/defold/releases/tag/1.2.189-alpha"
-            },
-            {
-                "version": "1.2.188",
-                "date": "Oct 18, 2021",
-                "download": "https://github.com//defold/defold/releases/tag/1.2.188"
             }
         ]
     },
