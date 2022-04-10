@@ -608,6 +608,11 @@
         "category": "3D Paint Tool",
         "releases": [
             {
+                "version": "0.99",
+                "date": "Apr 10, 2022",
+                "download": "https://github.com//RodZill4/material-maker/releases/tag/0.99"
+            },
+            {
                 "version": "0.98",
                 "date": "Jan 23, 2022",
                 "download": "https://github.com//RodZill4/material-maker/releases/tag/0.98"
@@ -651,11 +656,6 @@
                 "version": "0.8",
                 "date": "Jan 21, 2020",
                 "download": "https://github.com//RodZill4/material-maker/releases/tag/0.8"
-            },
-            {
-                "version": "v0.7",
-                "date": "Nov 24, 2019",
-                "download": "https://github.com//RodZill4/material-maker/releases/tag/v0.7"
             }
         ]
     },
