@@ -173,6 +173,11 @@
         "category": "Framework",
         "releases": [
             {
+                "version": "v3.60.0-beta.7",
+                "date": "May 10, 2022",
+                "download": "https://github.com//photonstorm/phaser/releases/tag/v3.60.0-beta.7"
+            },
+            {
                 "version": "v3.60.0-beta.6",
                 "date": "May 6, 2022",
                 "download": "https://github.com//photonstorm/phaser/releases/tag/v3.60.0-beta.6"
@@ -216,11 +221,6 @@
                 "version": "v3.54.0",
                 "date": "Mar 26, 2021",
                 "download": "https://github.com//photonstorm/phaser/releases/tag/v3.54.0"
-            },
-            {
-                "version": "v3.53.1",
-                "date": "Mar 8, 2021",
-                "download": "https://github.com//photonstorm/phaser/releases/tag/v3.53.1"
             }
         ]
     },
