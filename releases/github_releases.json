@@ -388,6 +388,11 @@
         "category": "Framework",
         "releases": [
             {
+                "version": "gdx-parent-1.11.0",
+                "date": "May 11, 2022",
+                "download": "https://github.com//libgdx/libgdx/releases/tag/gdx-parent-1.11.0"
+            },
+            {
                 "version": "gdx-parent-1.10.0",
                 "date": "Apr 18, 2021",
                 "download": "https://github.com//libgdx/libgdx/releases/tag/gdx-parent-1.10.0"
@@ -431,11 +436,6 @@
                 "version": "gdx-parent-1.9.7",
                 "date": "Oct 22, 2017",
                 "download": "https://github.com//libgdx/libgdx/releases/tag/gdx-parent-1.9.7"
-            },
-            {
-                "version": "1.9.6",
-                "date": "Mar 5, 2017",
-                "download": "https://github.com//libgdx/libgdx/releases/tag/1.9.6"
             }
         ]
     },
