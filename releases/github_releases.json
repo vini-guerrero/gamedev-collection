@@ -153,6 +153,11 @@
         "category": "Game Engine",
         "releases": [
             {
+                "version": "2205.0",
+                "date": "May 12, 2022",
+                "download": "https://github.com//o3de/o3de/releases/tag/2205.0"
+            },
+            {
                 "version": "2111.2",
                 "date": "Jan 27, 2022",
                 "download": "https://github.com//o3de/o3de/releases/tag/2111.2"
