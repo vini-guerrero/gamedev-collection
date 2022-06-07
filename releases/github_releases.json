@@ -768,6 +768,11 @@
         "category": "Digital Paint Application",
         "releases": [
             {
+                "version": "v5.2.0-prealpha",
+                "date": "Jun 7, 2022",
+                "download": "https://github.com//KDE/krita/releases/tag/v5.2.0-prealpha"
+            },
+            {
                 "version": "v5.0.8",
                 "date": "May 25, 2022",
                 "download": "https://github.com//KDE/krita/releases/tag/v5.0.8"
@@ -811,11 +816,6 @@
                 "version": "v5.0.0-beta4",
                 "date": "Dec 3, 2021",
                 "download": "https://github.com//KDE/krita/releases/tag/v5.0.0-beta4"
-            },
-            {
-                "version": "v5.0.0-beta3",
-                "date": "Nov 30, 2021",
-                "download": "https://github.com//KDE/krita/releases/tag/v5.0.0-beta3"
             }
         ]
     },
