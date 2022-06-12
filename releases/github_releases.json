@@ -823,6 +823,11 @@
         "category": "Digital Paint Application",
         "releases": [
             {
+                "version": "GIMP_2_10_32",
+                "date": "Jun 12, 2022",
+                "download": "https://github.com//GNOME/gimp/releases/tag/GIMP_2_10_32"
+            },
+            {
                 "version": "GIMP_2_99_10",
                 "date": "Feb 22, 2022",
                 "download": "https://github.com//GNOME/gimp/releases/tag/GIMP_2_99_10"
@@ -866,11 +871,6 @@
                 "version": "GIMP_2_99_2",
                 "date": "Oct 25, 2020",
                 "download": "https://github.com//GNOME/gimp/releases/tag/GIMP_2_99_2"
-            },
-            {
-                "version": "GIMP_2_10_22",
-                "date": "Oct 4, 2020",
-                "download": "https://github.com//GNOME/gimp/releases/tag/GIMP_2_10_22"
             }
         ]
     }
