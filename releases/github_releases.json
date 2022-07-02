@@ -558,14 +558,14 @@
         "category": "Game Engine",
         "releases": [
             {
+                "version": "1.3.4-alpha",
+                "date": "Jul 2, 2022",
+                "download": "https://github.com//defold/defold/releases/tag/1.3.4-alpha"
+            },
+            {
                 "version": "1.3.4-beta",
                 "date": "Jul 1, 2022",
                 "download": "https://github.com//defold/defold/releases/tag/1.3.4-beta"
-            },
-            {
-                "version": "1.3.4-alpha",
-                "date": "Jul 1, 2022",
-                "download": "https://github.com//defold/defold/releases/tag/1.3.4-alpha"
             },
             {
                 "version": "1.3.3",
