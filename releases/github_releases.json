@@ -58,6 +58,11 @@
         "category": "Game Engine",
         "releases": [
             {
+                "version": "3.5-stable",
+                "date": "Aug 5, 2022",
+                "download": "https://github.com//godotengine/godot/releases/tag/3.5-stable"
+            },
+            {
                 "version": "3.4.5-stable",
                 "date": "Aug 1, 2022",
                 "download": "https://github.com//godotengine/godot/releases/tag/3.4.5-stable"
@@ -101,11 +106,6 @@
                 "version": "3.3.2-stable",
                 "date": "May 24, 2021",
                 "download": "https://github.com//godotengine/godot/releases/tag/3.3.2-stable"
-            },
-            {
-                "version": "3.3.1-stable",
-                "date": "May 18, 2021",
-                "download": "https://github.com//godotengine/godot/releases/tag/3.3.1-stable"
             }
         ]
     },
