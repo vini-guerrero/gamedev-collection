@@ -233,6 +233,11 @@
         "category": "Framework",
         "releases": [
             {
+                "version": "4.2.0",
+                "date": "Aug 11, 2022",
+                "download": "https://github.com//raysan5/raylib/releases/tag/4.2.0"
+            },
+            {
                 "version": "4.0.0",
                 "date": "Nov 4, 2021",
                 "download": "https://github.com//raysan5/raylib/releases/tag/4.0.0"
@@ -276,11 +281,6 @@
                 "version": "1.9.4-dev",
                 "date": "Feb 4, 2018",
                 "download": "https://github.com//raysan5/raylib/releases/tag/1.9.4-dev"
-            },
-            {
-                "version": "1.8.0",
-                "date": "Oct 22, 2017",
-                "download": "https://github.com//raysan5/raylib/releases/tag/1.8.0"
             }
         ]
     },
