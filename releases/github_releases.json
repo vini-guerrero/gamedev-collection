@@ -559,7 +559,7 @@
         "releases": [
             {
                 "version": "1.3.6-alpha",
-                "date": "Aug 17, 2022",
+                "date": "Aug 18, 2022",
                 "download": "https://github.com//defold/defold/releases/tag/1.3.6-alpha"
             },
             {
@@ -668,6 +668,11 @@
         "category": "Sprite Editor",
         "releases": [
             {
+                "version": "v0.10.2",
+                "date": "Aug 18, 2022",
+                "download": "https://github.com//Orama-Interactive/Pixelorama/releases/tag/v0.10.2"
+            },
+            {
                 "version": "v0.10.1",
                 "date": "Jun 6, 2022",
                 "download": "https://github.com//Orama-Interactive/Pixelorama/releases/tag/v0.10.1"
@@ -711,11 +716,6 @@
                 "version": "v0.8",
                 "date": "Sep 23, 2020",
                 "download": "https://github.com//Orama-Interactive/Pixelorama/releases/tag/v0.8"
-            },
-            {
-                "version": "v0.7",
-                "date": "May 9, 2020",
-                "download": "https://github.com//Orama-Interactive/Pixelorama/releases/tag/v0.7"
             }
         ]
     },
