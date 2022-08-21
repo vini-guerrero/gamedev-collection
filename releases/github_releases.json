@@ -774,6 +774,61 @@
             }
         ]
     },
+    "Krita": {
+        "category": "Digital Paint Application",
+        "releases": [
+            {
+                "version": "v5.1.0",
+                "date": "Aug 17, 2022",
+                "download": "https://github.com//KDE/krita/releases/tag/v5.1.0"
+            },
+            {
+                "version": "v5.1.0-RC1",
+                "date": "Aug 3, 2022",
+                "download": "https://github.com//KDE/krita/releases/tag/v5.1.0-RC1"
+            },
+            {
+                "version": "v5.1.0-beta2",
+                "date": "Jul 14, 2022",
+                "download": "https://github.com//KDE/krita/releases/tag/v5.1.0-beta2"
+            },
+            {
+                "version": "v5.1.0-beta1",
+                "date": "Jun 22, 2022",
+                "download": "https://github.com//KDE/krita/releases/tag/v5.1.0-beta1"
+            },
+            {
+                "version": "v5.2.0-prealpha",
+                "date": "Jun 7, 2022",
+                "download": "https://github.com//KDE/krita/releases/tag/v5.2.0-prealpha"
+            },
+            {
+                "version": "v5.0.8",
+                "date": "May 25, 2022",
+                "download": "https://github.com//KDE/krita/releases/tag/v5.0.8"
+            },
+            {
+                "version": "v5.0.6",
+                "date": "Apr 27, 2022",
+                "download": "https://github.com//KDE/krita/releases/tag/v5.0.6"
+            },
+            {
+                "version": "v5.0.5",
+                "date": "Apr 12, 2022",
+                "download": "https://github.com//KDE/krita/releases/tag/v5.0.5"
+            },
+            {
+                "version": "v5.0.2",
+                "date": "Jan 6, 2022",
+                "download": "https://github.com//KDE/krita/releases/tag/v5.0.2"
+            },
+            {
+                "version": "v5.0.1",
+                "date": "Dec 22, 2021",
+                "download": "https://github.com//KDE/krita/releases/tag/v5.0.1"
+            }
+        ]
+    },
     "Gimp": {
         "category": "Digital Paint Application",
         "releases": [
