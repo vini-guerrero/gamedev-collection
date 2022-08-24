@@ -833,6 +833,11 @@
         "category": "Digital Paint Application",
         "releases": [
             {
+                "version": "GIMP_2_99_12-WIN_INSTALLER",
+                "date": "Aug 24, 2022",
+                "download": "https://github.com//GNOME/gimp/releases/tag/GIMP_2_99_12-WIN_INSTALLER"
+            },
+            {
                 "version": "GIMP_2_99_12",
                 "date": "Aug 21, 2022",
                 "download": "https://github.com//GNOME/gimp/releases/tag/GIMP_2_99_12"
@@ -876,11 +881,6 @@
                 "version": "GIMP_2_10_24",
                 "date": "Mar 28, 2021",
                 "download": "https://github.com//GNOME/gimp/releases/tag/GIMP_2_10_24"
-            },
-            {
-                "version": "GIMP_2_99_4",
-                "date": "Dec 22, 2020",
-                "download": "https://github.com//GNOME/gimp/releases/tag/GIMP_2_99_4"
             }
         ]
     }
