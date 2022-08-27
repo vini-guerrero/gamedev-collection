@@ -609,6 +609,61 @@
             }
         ]
     },
+    "Material Maker": {
+        "category": "3D Paint Tool",
+        "releases": [
+            {
+                "version": "1.0",
+                "date": "Jul 22, 2022",
+                "download": "https://github.com//RodZill4/material-maker/releases/tag/1.0"
+            },
+            {
+                "version": "0.99",
+                "date": "Apr 10, 2022",
+                "download": "https://github.com//RodZill4/material-maker/releases/tag/0.99"
+            },
+            {
+                "version": "0.98",
+                "date": "Jan 23, 2022",
+                "download": "https://github.com//RodZill4/material-maker/releases/tag/0.98"
+            },
+            {
+                "version": "0.97",
+                "date": "Oct 17, 2021",
+                "download": "https://github.com//RodZill4/material-maker/releases/tag/0.97"
+            },
+            {
+                "version": "0.96",
+                "date": "Jul 31, 2021",
+                "download": "https://github.com//RodZill4/material-maker/releases/tag/0.96"
+            },
+            {
+                "version": "0.95",
+                "date": "Apr 21, 2021",
+                "download": "https://github.com//RodZill4/material-maker/releases/tag/0.95"
+            },
+            {
+                "version": "0.94",
+                "date": "Jan 31, 2021",
+                "download": "https://github.com//RodZill4/material-maker/releases/tag/0.94"
+            },
+            {
+                "version": "0.93",
+                "date": "Oct 11, 2020",
+                "download": "https://github.com//RodZill4/material-maker/releases/tag/0.93"
+            },
+            {
+                "version": "0.92",
+                "date": "Jun 27, 2020",
+                "download": "https://github.com//RodZill4/material-maker/releases/tag/0.92"
+            },
+            {
+                "version": "0.9",
+                "date": "Mar 15, 2020",
+                "download": "https://github.com//RodZill4/material-maker/releases/tag/0.9"
+            }
+        ]
+    },
     "Pixelorama": {
         "category": "Sprite Editor",
         "releases": [
