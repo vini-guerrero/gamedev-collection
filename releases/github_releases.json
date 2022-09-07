@@ -3,6 +3,11 @@
         "category": "3D Tool",
         "releases": [
             {
+                "version": "v3.3.0",
+                "date": "Sep 7, 2022",
+                "download": "https://github.com//blender/blender/releases/tag/v3.3.0"
+            },
+            {
                 "version": "v3.2.2",
                 "date": "Aug 3, 2022",
                 "download": "https://github.com//blender/blender/releases/tag/v3.2.2"
@@ -46,11 +51,6 @@
                 "version": "v3.1.0",
                 "date": "Mar 9, 2022",
                 "download": "https://github.com//blender/blender/releases/tag/v3.1.0"
-            },
-            {
-                "version": "v2.93.8",
-                "date": "Feb 2, 2022",
-                "download": "https://github.com//blender/blender/releases/tag/v2.93.8"
             }
         ]
     },
