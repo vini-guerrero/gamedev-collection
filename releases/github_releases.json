@@ -558,14 +558,14 @@
         "category": "Game Engine",
         "releases": [
             {
-                "version": "1.3.7-alpha",
-                "date": "Sep 22, 2022",
-                "download": "https://github.com//defold/defold/releases/tag/1.3.7-alpha"
-            },
-            {
                 "version": "1.3.6",
                 "date": "Sep 19, 2022",
                 "download": "https://github.com//defold/defold/releases/tag/1.3.6"
+            },
+            {
+                "version": "1.3.7-alpha",
+                "date": "Sep 22, 2022",
+                "download": "https://github.com//defold/defold/releases/tag/1.3.7-alpha"
             },
             {
                 "version": "1.3.6-beta",
@@ -573,24 +573,24 @@
                 "download": "https://github.com//defold/defold/releases/tag/1.3.6-beta"
             },
             {
-                "version": "1.3.6-alpha",
-                "date": "Sep 14, 2022",
-                "download": "https://github.com//defold/defold/releases/tag/1.3.6-alpha"
-            },
-            {
                 "version": "1.3.5",
                 "date": "Aug 20, 2022",
                 "download": "https://github.com//defold/defold/releases/tag/1.3.5"
             },
             {
-                "version": "1.3.5-alpha",
-                "date": "Aug 16, 2022",
-                "download": "https://github.com//defold/defold/releases/tag/1.3.5-alpha"
+                "version": "1.3.6-alpha",
+                "date": "Sep 14, 2022",
+                "download": "https://github.com//defold/defold/releases/tag/1.3.6-alpha"
             },
             {
                 "version": "1.3.5-beta",
                 "date": "Aug 11, 2022",
                 "download": "https://github.com//defold/defold/releases/tag/1.3.5-beta"
+            },
+            {
+                "version": "1.3.5-alpha",
+                "date": "Aug 16, 2022",
+                "download": "https://github.com//defold/defold/releases/tag/1.3.5-alpha"
             },
             {
                 "version": "1.3.4",
