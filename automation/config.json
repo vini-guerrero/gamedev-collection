@@ -66,6 +66,11 @@
          "url":"https://github.com/defold/defold/tags"
       },
       {
+         "name":"PlayCanvas",
+         "category":"Framework",
+         "url":"https://github.com/playcanvas/engine/tags"
+      },
+      {
          "name":"Material Maker",
          "category":"3D Paint Tool",
          "url":"https://github.com/RodZill4/material-maker/tags"
