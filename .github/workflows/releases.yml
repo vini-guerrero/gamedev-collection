@@ -8,15 +8,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
       - name: Setup Python Version
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4
         with:
-          python-version: 3.8
+          python-version: 3.10
       - name: Get Github Releases
         run: pip3 install beautifulsoup4 requests && python3 automation/main.py
         shell: bash
-      # - uses: actions/upload-artifact@v1
+      # - uses: actions/upload-artifact@v3
       #   with:
       #     name: Releases
       #     path: releases
