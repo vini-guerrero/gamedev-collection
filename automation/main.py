@@ -20,7 +20,6 @@ def getGithubReleases(url):
     return releases
 
 
-
 def generateGithubReleasesData(save_directory, filename, matches, category = None):
     githubReleases = {}
     if category: matches = [r for r in matches if r["category"] is category]
@@ -32,12 +31,8 @@ def generateGithubReleasesData(save_directory, filename, matches, category = Non
     with open(filepath, 'w', encoding='utf-8') as f: json.dump(githubReleases, f, ensure_ascii=False, indent=4)
 
 
-
-
 # Standard
 # { "name": "aaa", "category": "aaa", "url": "https://github.com/aaa/aaa/tags" },
-
-
 config_filepath = os.path.join(os.path.dirname(__file__), 'config.json')
 with open(config_filepath, 'r') as c_file: 
     content = json.load(c_file)
